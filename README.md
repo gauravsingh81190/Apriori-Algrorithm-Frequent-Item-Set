@@ -1,1 +1,2 @@
-# Apriori-Algrorithm-Frequent-Item-Set
+
+* This is a simple implementation of Apriori algorithm in Python
