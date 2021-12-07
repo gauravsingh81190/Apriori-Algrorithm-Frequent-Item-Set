@@ -1,0 +1,8 @@
+ apple,banana,pear,fig
+ banana,orange,fig
+ fig,water,pear,orange,milk
+ pear,banana,water,fig
+ pear,water,fig
+ kiwi,pear,milk,water,fig
+ apple,pear,orange,water,banana,kiwi
+ pear,orange,apple
